@@ -1,0 +1,123 @@
+
+
+
+
+body
+    {
+ background-color: rgb(211, 211, 211);
+ 
+}
+
+
+#container
+    {
+        background-color:rgb(191, 184, 184);
+        color:whitesmoke;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: 1000px;
+
+}
+
+#header
+    {
+        background-color: rgb(72, 88, 78);
+        height: 90px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        padding: 10px;
+
+}
+
+
+#logo
+{
+    width: 10px;
+    height: 10px;
+    
+}
+
+
+#nav
+    {
+        float: right;
+        background-color: rgb(81, 79, 78);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 2000px;
+        text-align: center;
+
+}
+
+#content
+    {
+        float: center;
+        width: 300px;
+        background-color: rgb(65, 66, 66);
+        height: 400px;
+        padding: 10px;
+        
+
+}
+
+
+
+#footer
+    {
+        background-color: grey;
+        clear: both;
+
+}
+
+h4
+{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+
+}
+
+h3
+{
+    font-family: 'Times New Roman';
+    font-size: 22px;
+
+}
+
+#imgSpaceOne
+{
+    float: inherit;
+  
+
+    
+}
+
+.rotateimg90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+
+  h6
+{
+    font-family: 'Times New Roman';
+    font-size: 22px;
+    text-align: center;
+    width:1000px;
+    background-color: rgb(40, 82, 100);
+}
+
+a
+{
+    color:red;
+    font-size: 26px;
+    align-items: center;
+}
+
+#centerText
+{
+    background-color: beige;
+    text-align: center;
+    width: 1200px;
+}
