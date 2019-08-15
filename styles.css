@@ -23,7 +23,7 @@ background-color: rgb(211, 211, 211);
 {
     background-color: rgb(72, 88, 78);
     height: 90px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Franklin Gothic Medium'; 
     padding: 10px;
 
 }
@@ -107,12 +107,9 @@ a
 color:rgb(255, 255, 255);
 font-size: 28px;
 text-align: right;
-font-family: 'Impact', Haettenschweiler, sans-serif
+font-family: 'Impact';
 }
 
 h1 {
     font-size: 50px;
-   
-    
 }
-
