@@ -40,22 +40,20 @@ height: 10px;
 #nav
 {
     float: right;
-    background-color: rgb(81, 79, 78);
+    background-color: rgb(59, 57, 56);
     color: rgb(255, 255, 255);
     width: 200px;
     height: 2000px;
-    text-align: center;
 
 }
 
 #content
 {
-    float: center;
-    width: 300px;
-    background-color: rgb(65, 66, 66);
-    height: 400px;
-    padding: 10px;
     
+    width: 800px;
+    background-color: rgba(38, 39, 39, 0.748);
+    height: 200px;
+    padding: 15px;
 
 }
 
@@ -68,27 +66,23 @@ height: 10px;
 
 }
 
+mark{
+    background-color: white;
+}
+
 h4
 {
-font-family: 'Times New Roman';
-font-size: 18px;
+font-family: 'Cambria';
+font-size: 20px;
 
 }
 
 h3
 {
-font-family: 'Times New Roman';
-font-size: 22px;
-
+font-family: 'Cambria', serif;
+font-size: 26px;
 }
 
-#imgSpaceOne
-{
-float: inherit;
-
-
-
-}
 
 .rotateimg90 {
 -webkit-transform:rotate(90deg);
@@ -97,6 +91,7 @@ float: inherit;
 -o-transform: rotate(90deg);
 transform: rotate(90deg);
 }
+
 
 h6
 {
@@ -109,14 +104,15 @@ background-color: rgb(40, 82, 100);
 
 a
 {
-color:red;
-font-size: 26px;
-align-items: center;
+color:rgb(255, 255, 255);
+font-size: 28px;
+text-align: right;
+font-family: 'Impact', Haettenschweiler, sans-serif
 }
 
-#centerText
-{
-background-color: beige;
-text-align: center;
-width: 1000px;
+h1 {
+    font-size: 50px;
+   
+    
 }
+
