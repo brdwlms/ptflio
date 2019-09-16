@@ -126,6 +126,14 @@ text-align: right;
 
 
 
+iframe
+{
+text-align: center;
+    padding: 10px;
+}
+
+
+
         h1 
 {
 font-size: 50px;
