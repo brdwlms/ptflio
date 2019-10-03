@@ -1,9 +1,6 @@
- 
- 
-    body
+body
 {
 background-color: rgb(255, 255, 255);
-    
 }
 
 
@@ -17,7 +14,6 @@ margin-left: auto;
 text-align: center;
     width: 1000px;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    
 }
 
 
@@ -46,7 +42,7 @@ float: right;
     background-color: rgba(0, 0, 0, 0.843);
 color: rgb(0, 0, 0);
     width: 170px;
-height:1974px;
+height:1784px;
 }
 
 
@@ -55,7 +51,7 @@ height:1974px;
 { 
 width: 828px;
     background-color: rgb(123, 123, 123);
-height: 150px;
+height: 270px;
     padding:1px;
 }
 
@@ -88,7 +84,7 @@ font-family: 'Cambria';
         h3
 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif bold;
-    font-size: 32px;
+    font-size: 26px;
 background-color: rgba(177, 174, 174, 0);
     width: 1000px;
 
@@ -114,7 +110,6 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-align: center;
     width:830px;
 background-color: rgb(7, 23, 27);
-    
 }
 
 
@@ -126,6 +121,7 @@ color:rgb(255, 255, 255);
 text-align: right;
     font-family: 'Impact';
 }
+
 
 
 iframe
@@ -154,31 +150,8 @@ text-align: center;
 
 b
 {
-color:rgb(255, 0, 0);
-    font-size: 50px;
+color:rgb(29, 29, 29);
+    font-size: 20px;
 text-align: center;
     
-}
-
-    p
-{
-    font-size: 35px;
-padding-left: 10px;
-
-}
-
-        #box
-{
-    text-align: center;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: beige;
-background-color: black; 
-    width: 830px;    
-
-}
-
-img
-{
-    width: 700px;
-
 }
