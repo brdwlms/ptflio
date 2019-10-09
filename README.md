@@ -1,3 +1,3 @@
 # ptflio
 ## The home for my improved website
-![image](https://user-images.githubusercontent.com/52379944/66152717-e9337c80-e5ce-11e9-9cc6-7156915121f1.png)
+![logoNew (1)](https://user-images.githubusercontent.com/52379944/66505427-3e183c80-ea80-11e9-9bca-267be577da95.jpg)
