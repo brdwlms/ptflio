@@ -46,7 +46,7 @@
         background-color: rgba(32, 47, 51, 0.925);
     color: rgb(0, 0, 0);
         width: 170px;
-    height:2427px; 
+    height: 2516px; 
     }
     
     
@@ -63,8 +63,10 @@
     
         #footer
     {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(78, 31, 31);
         clear: both;
+    font-style: italic;
+    font-size: 18px;
     }
     
     
