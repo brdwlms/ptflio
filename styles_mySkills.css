@@ -46,7 +46,7 @@ float: right;
 background-color: rgba(32, 47, 51, 0.925);
 color: rgb(0, 0, 0);
     width: 170px;
-height:1085px;
+height:1086px;
 }
 
 
@@ -54,7 +54,7 @@ height:1085px;
         #content
 { 
 width: 828px;
-    background-color: rgb(123, 123, 123);
+background-color: rgba(0, 0, 0, 0.932); 
 height: 150px;
     padding:1px;
 }
@@ -176,7 +176,7 @@ padding-left: 10px;
     text-align: center;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: beige;
-background-color: black; 
+    background-color: rgba(0, 0, 0, 0.932); 
     width: 830px;    
 height: 900px;
 
