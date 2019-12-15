@@ -1,4 +1,5 @@
 <?php
+
 if (isset($_POST['submit'])){
     $name = $_POST['name'];
     $mailFrom = $_POST['email'];
@@ -10,7 +11,8 @@ if (isset($_POST['submit'])){
 
 
     mail($mailTo, $comments, $txt, $headers);
-    header("Location: index.php?mailsend");
+
+    header("Location: www.williamsbrad.com");
 
 }
 ?>
