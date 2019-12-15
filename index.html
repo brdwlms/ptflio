@@ -68,15 +68,8 @@
             <br> with the hopes of inspiring others. <br>
             Sharing who I am and who I strive to become.
         </h4>
-        <form name="comments" action="http://www.williamsbrad.com/formDetails.php" method="POST">
-        <p>
-            Comments are Welcome!
-        </p>
-          <textarea name="comments" cols="100" rows="5"> Introduce yourself! 
-              Share your interests and what led you here.
-          </textarea>
-          <input type="submit" name="Submit" value="Submit Comments">
-        <p>Share your current occupation</p>
+    
+       <!-- <p>Share your current occupation</p>
           <select name="occupation">
                 <option value="engineer">Engineering & Computer Science</option>
                 <option value="education">Education</option>
@@ -89,25 +82,11 @@
                 <option value="law">Law & Public Policy</option>
                 <option value="student">Student</option>
           </select>
-          <input type="submit" name="Submit" value="Submit Details">
+        <input type="submit" value="Submit">
         </form>
         </div>
-        <br>
-        <br>
-        <br>
+    -->
         <div id = "imgSpaceOne">
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
             <h6>     
             <a href = "https://youtu.be/xELp9IQW8H0"> Rocket Sled Propulsion act </a>
             <br>(Matthew Mikhailov, Brad Williams) 
@@ -122,9 +101,23 @@
             <br>
             <img src = ".\images\droneFly.gif" style = "align-content: center" width = "500px"
             </h6> 
-            <br>
-            <br>
+           
         </div>
+        <form class="contact-form" action="contactform.php" method="POST">
+        <p>
+            Comments are appreciated!
+        </p>
+        <input type="text" name="name" placeholder="Full Name">
+     <input type="text" name="email" placeholder="Enter your Email">
+    <br>
+    <br>
+    <textarea name="comments" cols="70" rows="5"> Introduce yourself! 
+              Share your interests and what led you here.
+    </textarea>
+    <br>
+   <button type="submit" name="submit">Submit Comments</button> 
+    <br>
+    
         <div id = "footer">
             <address> by Brad
                 Williams with help from books and coffee

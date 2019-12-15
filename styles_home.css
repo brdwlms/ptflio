@@ -42,7 +42,7 @@ float: right;
     background-color: rgba(32, 47, 51, 0.925);
 color: rgb(0, 0, 0);
     width: 180px;
-height:1553px; 
+height:1890px; 
 }
 
 
@@ -168,15 +168,45 @@ p
 {
 font-family: 'Impact';
     font-size: 32px;
-color:  rgb(78, 31, 31);
-    background-color: rgb(145, 145, 145);
+color:  rgb(255, 255, 255);
+    background-color: rgb(52, 52, 52);
 width: 830px;
+text-shadow: 3px 3px rgba(0, 0, 0, 0.748);
     
 }
  form 
  {
      width: 830px;
-     height: 326px;
+     height: 300px;
     color:  rgb(78, 31, 31);
     background-color:  rgba(32, 47, 51, 0.592);
+ }
+
+button
+{
+    width: 30%;
+    height: 15%;
+    font-family: 'Arial';
+    font-size: large;
+    color: rgb(255, 255, 255);
+    background-color: rgba(32, 47, 51, 0.592) ;
+}
+
+
+textarea
+{
+    font-size: large;
+    width: 660px; 
+    color: rgb(0, 0, 0);
+    font-family:'Arial';
+}
+
+ input
+ {
+     font-family:'Arial';
+     height:10%;
+     width: 25%;
+     font-size: large;
+        color:  rgb(0, 0, 0);
+        background-color:  rgb(255, 255, 255);
  }
