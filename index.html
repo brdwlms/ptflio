@@ -68,16 +68,16 @@
             <br> with the hopes of inspiring others. <br>
             Sharing who I am and who I strive to become.
         </h4>
-        <form action="http://www.williamsbrad.com/commentsOccu.php" method="GET">
+        <form name="comments" action="http://www.williamsbrad.com/formDetails.php" method="POST">
         <p>
             Comments are Welcome!
         </p>
           <textarea name="comments" cols="100" rows="5"> Introduce yourself! 
               Share your interests and what led you here.
           </textarea>
-          <input type="submit" name="Submit" value="Submit">
+          <input type="submit" name="Submit" value="Submit Comments">
         <p>Share your current occupation</p>
-          <select name="fieldWork">
+          <select name="occupation">
                 <option value="engineer">Engineering & Computer Science</option>
                 <option value="education">Education</option>
                 <option value="business">Business</option>
@@ -89,6 +89,7 @@
                 <option value="law">Law & Public Policy</option>
                 <option value="student">Student</option>
           </select>
+          <input type="submit" name="Submit" value="Submit Details">
         </form>
         </div>
         <br>
