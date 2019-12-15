@@ -51,7 +51,7 @@ height:1553px;
 { 
 width: 828px;
     background-color: rgb(42, 44, 54);
-height: 200px;
+height: 240px;
     padding:1px;
 }
 
@@ -163,3 +163,20 @@ color:rgb(255, 255, 255);
 text-align: center;
     
 }
+
+p
+{
+font-family: 'Impact';
+    font-size: 32px;
+color:  rgb(78, 31, 31);
+    background-color: rgb(145, 145, 145);
+width: 830px;
+    
+}
+ form 
+ {
+     width: 830px;
+     height: 326px;
+    color:  rgb(78, 31, 31);
+    background-color:  rgba(32, 47, 51, 0.592);
+ }
