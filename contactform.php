@@ -15,4 +15,3 @@ if (isset($_POST['submit'])){
     header("Location: www.williamsbrad.com");
 
 }
-?>
