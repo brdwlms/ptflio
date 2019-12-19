@@ -43,7 +43,7 @@
         #nav
     {
     float: right;
-        background-color: rgba(32, 47, 51, 0.925);
+        background-color:  rgb(32, 47, 51);
     color: rgb(0, 0, 0);
         width: 170px;
     height: 2060px; 
@@ -127,7 +127,7 @@
     color:rgb(255, 255, 255);
         font-size: 28px;
     text-align: right;
-    font-family: 'Arial Black';
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
     text-shadow: 3px 3px rgba(0, 0, 0, 0.748);
     }
     
