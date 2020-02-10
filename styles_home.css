@@ -41,7 +41,7 @@ float: right;
     background-color:  rgb(32, 47, 51);
 color: rgb(0, 0, 0);
     width: 180px;
-height:1569px; 
+height:1633px; 
 }
 
 
@@ -49,8 +49,8 @@ height:1569px;
 { 
 width: 910px;
     background-color: rgb(42, 44, 54);
-height: 270px;
-    padding:1px;
+height:300px;
+    padding:3px;
 }
 
 
@@ -218,6 +218,6 @@ textarea
      background-color: rgb(32, 47, 51);
  color: rgb(0, 0, 0);
      width: 180px;
- height:1569px; 
+ height:1633px; 
  }
  

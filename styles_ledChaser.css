@@ -46,7 +46,7 @@
         background-color:  rgb(32, 47, 51);
     color: rgb(0, 0, 0);
         width: 170px;
-    height: 2060px; 
+    height: 1610px; 
     }
     
     
@@ -116,7 +116,8 @@
     text-align: center;
         width:830px;
     background-color: rgb(7, 23, 27);
-        padding: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
         
     }
     
